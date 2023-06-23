@@ -145,6 +145,9 @@ TODO: Ajouter la definition generale des patterns de comportement
 
 ### Le pattern chain of responsability
 
+Ce pattern est utilise lorsque: 
+ - une chaine d'objets gere une requete selon un ordre defini de facon dynamique
+ - Ce mecanisme doit etre transparent vis-a-vis des clients de la chaine d'objets.
 
 ![Alt text](image-10.png)
 
@@ -153,3 +156,12 @@ TODO: Ajouter la definition generale des patterns de comportement
 ![Alt text](image-12.png)
 
 
+
+
+### Le pattern Command 
+
+### Le pattern Iterator
+
+![Alt text](image-13.png)
+
+![Alt text](image-14.png)
